@@ -6205,16 +6205,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "5.9.10",
+            "version": "5.9.11",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "b965c6950d1bc1f804dee78f8458f5a3b5c99a52"
+                "reference": "25876f59742ba4173e3b19e08674170735840a20"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/b965c6950d1bc1f804dee78f8458f5a3b5c99a52",
-                "reference": "b965c6950d1bc1f804dee78f8458f5a3b5c99a52",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/25876f59742ba4173e3b19e08674170735840a20",
+                "reference": "25876f59742ba4173e3b19e08674170735840a20",
                 "shasum": ""
             },
             "require": {
@@ -6270,9 +6270,9 @@
             "description": "The most flexible and user-friendly form building plugin!",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v5.9.10"
+                "source": "https://github.com/solspace/craft-freeform/tree/v5.9.11"
             },
-            "time": "2025-02-13T21:11:08+00:00"
+            "time": "2025-02-18T05:58:14+00:00"
         },
         {
             "name": "spomky-labs/cbor-php",
