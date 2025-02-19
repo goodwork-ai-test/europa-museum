@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.339.15",
+            "version": "3.339.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "46ef2d3734ba8358966af80e4ac181633bd03692"
+                "reference": "f4db102dea7150a8330faee93d6754cd9a9dca37"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/46ef2d3734ba8358966af80e4ac181633bd03692",
-                "reference": "46ef2d3734ba8358966af80e4ac181633bd03692",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/f4db102dea7150a8330faee93d6754cd9a9dca37",
+                "reference": "f4db102dea7150a8330faee93d6754cd9a9dca37",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.339.15"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.339.16"
             },
-            "time": "2025-02-17T19:07:50+00:00"
+            "time": "2025-02-18T19:13:56+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -846,16 +846,16 @@
         },
         {
             "name": "craftcms/ckeditor",
-            "version": "4.5.0",
+            "version": "4.6.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/ckeditor.git",
-                "reference": "7a366bae76e17c96bc3eae18d0db9764799dd7ec"
+                "reference": "b838205bb2de62a86863548454bd42ee0b3fd5c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/7a366bae76e17c96bc3eae18d0db9764799dd7ec",
-                "reference": "7a366bae76e17c96bc3eae18d0db9764799dd7ec",
+                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/b838205bb2de62a86863548454bd42ee0b3fd5c9",
+                "reference": "b838205bb2de62a86863548454bd42ee0b3fd5c9",
                 "shasum": ""
             },
             "require": {
@@ -906,20 +906,20 @@
                 "rss": "https://github.com/craftcms/ckeditor/commits/master.atom",
                 "source": "https://github.com/craftcms/ckeditor"
             },
-            "time": "2025-01-23T20:00:00+00:00"
+            "time": "2025-02-18T22:56:36+00:00"
         },
         {
             "name": "craftcms/cms",
-            "version": "5.6.6",
+            "version": "5.6.7",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "bde0a7ff759f497eecf5408cfc065e676b4aa4e5"
+                "reference": "ae203ff5926e3f00eff4fd7f75413e95a0fe68aa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/bde0a7ff759f497eecf5408cfc065e676b4aa4e5",
-                "reference": "bde0a7ff759f497eecf5408cfc065e676b4aa4e5",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/ae203ff5926e3f00eff4fd7f75413e95a0fe68aa",
+                "reference": "ae203ff5926e3f00eff4fd7f75413e95a0fe68aa",
                 "shasum": ""
             },
             "require": {
@@ -984,7 +984,7 @@
                 "yii2tech/ar-softdelete": "1.0.4"
             },
             "require-dev": {
-                "codeception/codeception": "^5.0.11",
+                "codeception/codeception": "^5.2.0",
                 "codeception/lib-innerbrowser": "4.0.1",
                 "codeception/module-asserts": "^3.0.0",
                 "codeception/module-datafactory": "^3.0.0",
@@ -1036,7 +1036,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-02-12T00:10:06+00:00"
+            "time": "2025-02-18T19:02:31+00:00"
         },
         {
             "name": "craftcms/flysystem",
