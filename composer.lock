@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.339.17",
+            "version": "3.339.18",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "6632b63e2696052441894673c0fac882f52c3b92"
+                "reference": "abcadea5ede812b0411d482f92561832a8d9120c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/6632b63e2696052441894673c0fac882f52c3b92",
-                "reference": "6632b63e2696052441894673c0fac882f52c3b92",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/abcadea5ede812b0411d482f92561832a8d9120c",
+                "reference": "abcadea5ede812b0411d482f92561832a8d9120c",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.339.17"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.339.18"
             },
-            "time": "2025-02-19T19:10:53+00:00"
+            "time": "2025-02-20T19:09:37+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -910,16 +910,16 @@
         },
         {
             "name": "craftcms/cms",
-            "version": "5.6.8",
+            "version": "5.6.9",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "d6e586640e7b8942a6ce8d9e6af90f27c35d43c4"
+                "reference": "b222f83f3502c5b2f00fa878433aff2ec25e1be1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/d6e586640e7b8942a6ce8d9e6af90f27c35d43c4",
-                "reference": "d6e586640e7b8942a6ce8d9e6af90f27c35d43c4",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/b222f83f3502c5b2f00fa878433aff2ec25e1be1",
+                "reference": "b222f83f3502c5b2f00fa878433aff2ec25e1be1",
                 "shasum": ""
             },
             "require": {
@@ -1036,7 +1036,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-02-19T22:59:33+00:00"
+            "time": "2025-02-20T23:35:07+00:00"
         },
         {
             "name": "craftcms/flysystem",
@@ -4030,16 +4030,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "3.8.5",
+            "version": "3.8.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/CarbonPHP/carbon.git",
-                "reference": "b1a53a27898639579a67de42e8ced5d5386aa9a4"
+                "reference": "ff2f20cf83bd4d503720632ce8a426dc747bf7fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/b1a53a27898639579a67de42e8ced5d5386aa9a4",
-                "reference": "b1a53a27898639579a67de42e8ced5d5386aa9a4",
+                "url": "https://api.github.com/repos/CarbonPHP/carbon/zipball/ff2f20cf83bd4d503720632ce8a426dc747bf7fd",
+                "reference": "ff2f20cf83bd4d503720632ce8a426dc747bf7fd",
                 "shasum": ""
             },
             "require": {
@@ -4132,7 +4132,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-02-11T16:28:45+00:00"
+            "time": "2025-02-20T17:33:38+00:00"
         },
         {
             "name": "nyholm/psr7",
