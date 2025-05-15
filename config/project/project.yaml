@@ -359,7 +359,7 @@ plugins:
           __assoc__:
             -
               - policy
-              - '''self'''
+              - "'self'"
       devModeCpTitlePrefix: '🚧⚙ '
       devModeTitlePrefix: '🚧 '
       displayAnalysisSidebar: true
