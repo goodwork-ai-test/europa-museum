@@ -922,20 +922,20 @@
         },
         {
             "name": "craftcms/ckeditor",
-            "version": "4.9.0",
+            "version": "4.10.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/ckeditor.git",
-                "reference": "df2ea2ec6a689b276507c83c38eb982a0287651a"
+                "reference": "2681ef842921f2df2b7c4ceb04f7229c64132c9d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/df2ea2ec6a689b276507c83c38eb982a0287651a",
-                "reference": "df2ea2ec6a689b276507c83c38eb982a0287651a",
+                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/2681ef842921f2df2b7c4ceb04f7229c64132c9d",
+                "reference": "2681ef842921f2df2b7c4ceb04f7229c64132c9d",
                 "shasum": ""
             },
             "require": {
-                "craftcms/cms": "^5.6.0",
+                "craftcms/cms": "^5.6.1",
                 "craftcms/html-field": "^3.4.0",
                 "embed/embed": "^4.4",
                 "nystudio107/craft-code-editor": ">=1.0.8 <=1.0.13 || ^1.0.16",
@@ -983,20 +983,20 @@
                 "rss": "https://github.com/craftcms/ckeditor/commits/master.atom",
                 "source": "https://github.com/craftcms/ckeditor"
             },
-            "time": "2025-05-23T15:58:04+00:00"
+            "time": "2025-08-13T02:17:53+00:00"
         },
         {
             "name": "craftcms/cms",
-            "version": "5.8.13.2",
+            "version": "5.8.14",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/cms.git",
-                "reference": "372b56f32967414a162d49bfb27a7d2e2a207924"
+                "reference": "78e791c49bb3f5fe854e08713f5d8cf9f61688b7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/cms/zipball/372b56f32967414a162d49bfb27a7d2e2a207924",
-                "reference": "372b56f32967414a162d49bfb27a7d2e2a207924",
+                "url": "https://api.github.com/repos/craftcms/cms/zipball/78e791c49bb3f5fe854e08713f5d8cf9f61688b7",
+                "reference": "78e791c49bb3f5fe854e08713f5d8cf9f61688b7",
                 "shasum": ""
             },
             "require": {
@@ -1110,7 +1110,7 @@
                 "rss": "https://github.com/craftcms/cms/releases.atom",
                 "source": "https://github.com/craftcms/cms"
             },
-            "time": "2025-08-07T11:14:33+00:00"
+            "time": "2025-08-13T02:07:26+00:00"
         },
         {
             "name": "craftcms/flysystem",
