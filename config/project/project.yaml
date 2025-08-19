@@ -1,4 +1,4 @@
-dateModified: 1754050176
+dateModified: 1755605323
 elementSources:
   craft\elements\Asset:
     -
@@ -240,7 +240,7 @@ plugins:
     edition: lite
     enabled: true
     licenseKey: VKEWWWS910PS87ALDS4HIVX8
-    schemaVersion: 5.6.5
+    schemaVersion: 5.6.6
     settings:
       ajaxByDefault: '1'
       alertNotificationRecipients: ''
