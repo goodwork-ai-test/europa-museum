@@ -62,16 +62,16 @@
         },
         {
             "name": "aws/aws-sdk-php",
-            "version": "3.354.1",
+            "version": "3.355.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/aws/aws-sdk-php.git",
-                "reference": "6aa524596cd83416085777a3bd037d06a70b5c65"
+                "reference": "17e7dd50a31164d18f4767636fd5d1c123f714e0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/6aa524596cd83416085777a3bd037d06a70b5c65",
-                "reference": "6aa524596cd83416085777a3bd037d06a70b5c65",
+                "url": "https://api.github.com/repos/aws/aws-sdk-php/zipball/17e7dd50a31164d18f4767636fd5d1c123f714e0",
+                "reference": "17e7dd50a31164d18f4767636fd5d1c123f714e0",
                 "shasum": ""
             },
             "require": {
@@ -153,9 +153,9 @@
             "support": {
                 "forum": "https://github.com/aws/aws-sdk-php/discussions",
                 "issues": "https://github.com/aws/aws-sdk-php/issues",
-                "source": "https://github.com/aws/aws-sdk-php/tree/3.354.1"
+                "source": "https://github.com/aws/aws-sdk-php/tree/3.355.0"
             },
-            "time": "2025-08-15T18:05:41+00:00"
+            "time": "2025-08-18T18:15:09+00:00"
         },
         {
             "name": "bacon/bacon-qr-code",
@@ -922,16 +922,16 @@
         },
         {
             "name": "craftcms/ckeditor",
-            "version": "4.10.0",
+            "version": "4.10.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/ckeditor.git",
-                "reference": "2681ef842921f2df2b7c4ceb04f7229c64132c9d"
+                "reference": "6619d081de4f1fe821cfe1e7bb981286b08c02fa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/2681ef842921f2df2b7c4ceb04f7229c64132c9d",
-                "reference": "2681ef842921f2df2b7c4ceb04f7229c64132c9d",
+                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/6619d081de4f1fe821cfe1e7bb981286b08c02fa",
+                "reference": "6619d081de4f1fe821cfe1e7bb981286b08c02fa",
                 "shasum": ""
             },
             "require": {
@@ -983,7 +983,7 @@
                 "rss": "https://github.com/craftcms/ckeditor/commits/master.atom",
                 "source": "https://github.com/craftcms/ckeditor"
             },
-            "time": "2025-08-13T02:17:53+00:00"
+            "time": "2025-08-18T17:29:45+00:00"
         },
         {
             "name": "craftcms/cms",
@@ -4710,16 +4710,16 @@
         },
         {
             "name": "nystudio107/craft-twig-sandbox",
-            "version": "5.0.4",
+            "version": "5.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nystudio107/craft-twig-sandbox.git",
-                "reference": "9237604a45094e0055dfe1fae9ed83f0b5bc4aea"
+                "reference": "e4742fcf97ac01ab76d36118c357f0221c7a5ce0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/9237604a45094e0055dfe1fae9ed83f0b5bc4aea",
-                "reference": "9237604a45094e0055dfe1fae9ed83f0b5bc4aea",
+                "url": "https://api.github.com/repos/nystudio107/craft-twig-sandbox/zipball/e4742fcf97ac01ab76d36118c357f0221c7a5ce0",
+                "reference": "e4742fcf97ac01ab76d36118c357f0221c7a5ce0",
                 "shasum": ""
             },
             "require": {
@@ -4768,7 +4768,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2025-06-10T22:33:22+00:00"
+            "time": "2025-08-18T16:00:57+00:00"
         },
         {
             "name": "nystudio107/craft-twigpack",
