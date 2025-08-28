@@ -71,6 +71,7 @@ git clone https://github.com/craftcms/europa-museum.git
 cd europa-museum
 ddev start
 ddev craft db/restore seed.sql
+ddev composer install
 ```
 
 As with the vanilla Docker setup process, you can create a user for yourself with the CLI:
