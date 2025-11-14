@@ -52,11 +52,5 @@
             "@php craft demos/seed > /dev/null 2>&1"
         ]
     },
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/AugustMiller/craft-twigpack"
-        }
-    ],
     "prefer-stable": true
 }
