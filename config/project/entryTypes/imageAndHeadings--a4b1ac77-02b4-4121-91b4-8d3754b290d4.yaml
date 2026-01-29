@@ -1,6 +1,8 @@
 color: teal
 fieldLayouts:
   6f1b2935-dba4-460d-be70-b29a7aa0aa60:
+    cardView:
+      - 'layoutElement:056f209b-7979-4291-8553-6faa4b0e49a1'
     tabs:
       -
         elementCondition: null
@@ -13,7 +15,6 @@ fieldLayouts:
             disabled: false
             elementCondition: null
             id: null
-            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -22,7 +23,6 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
-            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -38,10 +38,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: dad3b3bd-ab3c-486d-a552-b3cc718f8e1c # Content Blocks - Image and Headings - Image
             handle: null
-            includeInCards: false
             instructions: null
             label: Image
-            providesThumbs: true
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -53,10 +51,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: a65ec270-2111-40c2-bf47-f3d6d929603a # Content Blocks - Image and Headings - Pre Heading
             handle: null
-            includeInCards: true
             instructions: null
             label: 'Pre Heading'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -68,10 +64,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: f109ee5b-bb41-47ce-aaa0-53b5304e0e22 # Content Blocks - Image and Headings - Heading
             handle: heading
-            includeInCards: false
             instructions: null
             label: Heading
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -83,10 +77,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 3b943244-76d1-4973-9d71-6ec6c109e255 # Content Blocks - Image and Headings - Sub Heading
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Sub Heading'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -98,10 +90,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 3ad065f3-cd49-4ea6-91e3-12d3a0f0e30f # Content Blocks - Image and Headings - Text Color
             handle: textColor
-            includeInCards: false
             instructions: null
             label: 'Text Color'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -113,10 +103,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 913eb47c-ce43-4325-bb3a-1f5d99065038 # Content Blocks - Image and Headings - Highlight Text
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Highlight Text'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -127,6 +115,7 @@ fieldLayouts:
         name: Content
         uid: c7e1b071-3935-47c7-9acf-9c6f3d7f595e
         userCondition: null
+    thumbFieldKey: 'layoutElement:016d6fd9-8677-47f0-8771-a220936b734b'
 handle: imageAndHeadings
 hasTitleField: false
 icon: image

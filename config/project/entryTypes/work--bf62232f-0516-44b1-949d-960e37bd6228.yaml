@@ -1,6 +1,9 @@
 color: null
 fieldLayouts:
   2d8e6b8a-86f4-4aa6-9395-a77ea8005a01:
+    cardView:
+      - 'layoutElement:5e7bb16f-be3b-45e3-b2f2-be7ea021d78a'
+      - 'layoutElement:16443aa1-ee0e-471f-9fa3-f4c81a04844f'
     tabs:
       -
         elementCondition: null
@@ -13,7 +16,6 @@ fieldLayouts:
             disabled: false
             elementCondition: null
             id: null
-            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -22,7 +24,6 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
-            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -38,10 +39,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 4e1408af-3452-4723-828d-1c779542492d # Artist
             handle: null
-            includeInCards: true
             instructions: null
             label: null
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -53,10 +52,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 71424eae-6314-46d2-8aff-8fe8be940860 # Representative Image
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: true
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -68,10 +65,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 547be893-d407-44df-9142-f0ba630ce0cb # Year
             handle: null
-            includeInCards: true
             instructions: null
             label: null
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -82,6 +77,7 @@ fieldLayouts:
         name: Attributes
         uid: 4a828e53-e15e-46a4-b7d1-bd2f93dc97c7
         userCondition: null
+    thumbFieldKey: 'layoutElement:f57b2cdc-4eba-498a-85e8-195325569989'
 handle: work
 hasTitleField: true
 icon: paintbrush

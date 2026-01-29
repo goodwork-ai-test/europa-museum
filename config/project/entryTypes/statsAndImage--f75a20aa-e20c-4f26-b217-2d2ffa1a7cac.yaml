@@ -1,6 +1,8 @@
 color: teal
 fieldLayouts:
   b00121d3-e692-4fad-9a4d-14069ec52bf4:
+    cardView:
+      - 'layoutElement:c1bc74c3-49bc-4f9c-8fec-5a73f3526e49'
     tabs:
       -
         elementCondition: null
@@ -13,7 +15,6 @@ fieldLayouts:
             disabled: false
             elementCondition: null
             id: null
-            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -22,7 +23,6 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
-            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -38,10 +38,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: d10684d5-bcd7-4e35-b0be-69377f981c39 # Content Blocks - Stats and Image - Heading
             handle: heading
-            includeInCards: true
             instructions: null
             label: Heading
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -53,10 +51,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: eb7b8bc9-c07a-4a25-9201-8174bd70fcb9 # Content Blocks - Stats and Image - Description
             handle: null
-            includeInCards: false
             instructions: null
             label: Description
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -68,10 +64,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 00f86307-b225-423b-bd34-b70af6632cf2 # Content Blocks - Stats and Image - Link Label
             handle: linkLabel
-            includeInCards: false
             instructions: null
             label: 'Link Label'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -83,10 +77,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 24f81c6e-6793-446c-8e1c-a00518b79160 # Link Destination
             handle: null
-            includeInCards: false
             instructions: null
             label: null
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -110,10 +102,8 @@ fieldLayouts:
               fieldContext: global
             fieldUid: f466ab59-2e29-4cce-85b8-f9ebe7000b03 # Content Blocks - Stats and Image - Internal Link
             handle: internalLink
-            includeInCards: false
             instructions: null
             label: 'Internal Link'
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -137,10 +127,8 @@ fieldLayouts:
               fieldContext: global
             fieldUid: 52ff2568-6318-44d5-a130-818c19f83360 # Content Blocks - Stats and Image - External Link
             handle: externalLink
-            includeInCards: false
             instructions: null
             label: 'External Link'
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -152,10 +140,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 7cce3872-9055-454a-8fdc-45cbccec785b # Content Blocks - Stats and Image - Left Stat Value
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Left Stat Value'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -167,10 +153,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 4c127ec9-df18-4d62-bd02-cf8b5044f7ea # Content Blocks - Stats and Image - Left Stat Label
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Left Stat Label'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -182,10 +166,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 5f06df0c-02b7-4b2d-9b75-4b22a09c3a12 # Content Blocks - Stats and Image - Right Stat Value
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Right Stat Value'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -197,10 +179,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 5ccbb75b-a9e9-455a-baf9-60aaa799d452 # Content Blocks - Stats and Image - Right Stat Label
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Right Stat Label'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -212,10 +192,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 2b1996eb-1a60-4257-b4ab-2e41c49fbd06 # Content Blocks - Stats and Image - Image
             handle: image
-            includeInCards: false
             instructions: null
             label: Image
-            providesThumbs: true
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -226,6 +204,7 @@ fieldLayouts:
         name: Content
         uid: 31b86478-b2de-4194-b7d1-91b6c0434033
         userCondition: null
+    thumbFieldKey: 'layoutElement:290ed74f-8e1a-4f1c-854a-a04e25db912b'
 handle: statsAndImage
 hasTitleField: false
 icon: projector

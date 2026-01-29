@@ -1,6 +1,10 @@
 color: orange
 fieldLayouts:
   e65bd1e5-abf6-43e6-a3f0-2fbb329e35c4:
+    cardView:
+      - 'layoutElement:1723daa2-1605-463e-bb38-4472e9bcfaf4'
+      - 'layoutElement:521a42a3-5a35-43b3-9c62-129f039d3229'
+      - 'layoutElement:b58e08c1-f2a7-4568-bafd-9ff27dd29945'
     tabs:
       -
         elementCondition: null
@@ -13,7 +17,6 @@ fieldLayouts:
             disabled: false
             elementCondition: null
             id: null
-            includeInCards: false
             inputType: null
             instructions: null
             label: null
@@ -22,7 +25,6 @@ fieldLayouts:
             name: null
             orientation: null
             placeholder: null
-            providesThumbs: false
             readonly: false
             requirable: false
             size: null
@@ -38,10 +40,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 24bd1247-7ed2-48e8-af76-5b8ffc486ef6 # Content Blocks - CTA Caption - Heading
             handle: heading
-            includeInCards: true
             instructions: null
             label: Heading
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -53,10 +53,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 8c274864-9cf0-4ef9-b4bd-88da544515ad # Content Blocks - CTA Caption - Information
             handle: null
-            includeInCards: true
             instructions: null
             label: Information
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -68,10 +66,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 6ee9b9a7-d12d-4c9b-b069-586609cb5ea9 # Content Blocks - CTA Caption - Link Label
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Link Label'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -83,10 +79,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 24f81c6e-6793-446c-8e1c-a00518b79160 # Link Destination
             handle: null
-            includeInCards: true
             instructions: null
             label: null
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -110,10 +104,8 @@ fieldLayouts:
               fieldContext: global
             fieldUid: 3b1b9f85-3554-4b4a-8d39-467bf5e4a35d # Content Blocks - CTA Caption - Internal Link
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Internal Link'
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -137,10 +129,8 @@ fieldLayouts:
               fieldContext: global
             fieldUid: 55c6cb51-defc-4e30-bc18-e524de65b7b7 # Content Blocks - CTA Caption - External Link
             handle: null
-            includeInCards: false
             instructions: null
             label: 'External Link'
-            providesThumbs: false
             required: true
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -152,10 +142,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 42ad64e7-b07b-4601-9e6b-2d21bc0fe5d8 # Content Blocks - CTA Caption - Link Icon
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Link Icon'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
@@ -167,10 +155,8 @@ fieldLayouts:
             elementCondition: null
             fieldUid: 0ba28a66-d3aa-4c97-ad77-8e26087b3d70 # Content Blocks - CTA Caption - Narrow Width
             handle: null
-            includeInCards: false
             instructions: null
             label: 'Narrow Width'
-            providesThumbs: false
             required: false
             tip: null
             type: craft\fieldlayoutelements\CustomField
