@@ -22,13 +22,13 @@
     "require": {
         "bref/bref": "^2",
         "craftcms/aws-s3": "^2",
-        "craftcms/ckeditor": "^4",
+        "craftcms/ckeditor": "4.11.2",
         "craftcms/cms": "^5",
         "craftcms/yii2-dynamodb": "^2",
         "fakerphp/faker": "^1",
         "nystudio107/craft-seomatic": "^5",
         "nystudio107/craft-twigpack": "^5",
-        "solspace/craft-freeform": "^5",
+        "solspace/craft-freeform": "5.14.19",
         "vlucas/phpdotenv": "^5"
     },
     "minimum-stability": "dev",
