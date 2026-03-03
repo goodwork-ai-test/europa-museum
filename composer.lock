@@ -910,16 +910,16 @@
         },
         {
             "name": "craftcms/ckeditor",
-            "version": "4.11.1",
+            "version": "4.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/craftcms/ckeditor.git",
-                "reference": "2e75b5050377aafb0aeef4b67230d26c28a07218"
+                "reference": "9681db10641a03edd529fca1a403f6f5cc72eb2a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/2e75b5050377aafb0aeef4b67230d26c28a07218",
-                "reference": "2e75b5050377aafb0aeef4b67230d26c28a07218",
+                "url": "https://api.github.com/repos/craftcms/ckeditor/zipball/9681db10641a03edd529fca1a403f6f5cc72eb2a",
+                "reference": "9681db10641a03edd529fca1a403f6f5cc72eb2a",
                 "shasum": ""
             },
             "require": {
@@ -971,7 +971,7 @@
                 "rss": "https://github.com/craftcms/ckeditor/commits/master.atom",
                 "source": "https://github.com/craftcms/ckeditor"
             },
-            "time": "2026-02-18T22:13:33+00:00"
+            "time": "2026-03-02T22:35:06+00:00"
         },
         {
             "name": "craftcms/cms",
@@ -6678,16 +6678,16 @@
         },
         {
             "name": "solspace/craft-freeform",
-            "version": "5.14.18",
+            "version": "5.14.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/solspace/craft-freeform.git",
-                "reference": "9b09771e03a1ca1e9ba8a887cc9cba3d4b3c8673"
+                "reference": "1cbd7803ca1212d487913394344ccd19a1d6861a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/9b09771e03a1ca1e9ba8a887cc9cba3d4b3c8673",
-                "reference": "9b09771e03a1ca1e9ba8a887cc9cba3d4b3c8673",
+                "url": "https://api.github.com/repos/solspace/craft-freeform/zipball/1cbd7803ca1212d487913394344ccd19a1d6861a",
+                "reference": "1cbd7803ca1212d487913394344ccd19a1d6861a",
                 "shasum": ""
             },
             "require": {
@@ -6745,9 +6745,9 @@
             "description": "The most flexible and user-friendly form building plugin!",
             "support": {
                 "issues": "https://github.com/solspace/craft-freeform/issues",
-                "source": "https://github.com/solspace/craft-freeform/tree/v5.14.18"
+                "source": "https://github.com/solspace/craft-freeform/tree/v5.14.19"
             },
-            "time": "2026-02-26T16:15:37+00:00"
+            "time": "2026-03-02T16:30:27+00:00"
         },
         {
             "name": "spomky-labs/cbor-php",
@@ -9993,16 +9993,16 @@
         },
         {
             "name": "tecnickcom/tcpdf",
-            "version": "6.11.0",
+            "version": "6.11.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/TCPDF.git",
-                "reference": "81172e58edb1cfae4019ef150ccbdc0e9a8c85c9"
+                "reference": "e1e2ade18e574e963473f53271591edd8c0033ec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/81172e58edb1cfae4019ef150ccbdc0e9a8c85c9",
-                "reference": "81172e58edb1cfae4019ef150ccbdc0e9a8c85c9",
+                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/e1e2ade18e574e963473f53271591edd8c0033ec",
+                "reference": "e1e2ade18e574e963473f53271591edd8c0033ec",
                 "shasum": ""
             },
             "require": {
@@ -10052,7 +10052,7 @@
             ],
             "support": {
                 "issues": "https://github.com/tecnickcom/TCPDF/issues",
-                "source": "https://github.com/tecnickcom/TCPDF/tree/6.11.0"
+                "source": "https://github.com/tecnickcom/TCPDF/tree/6.11.2"
             },
             "funding": [
                 {
@@ -10060,7 +10060,7 @@
                     "type": "custom"
                 }
             ],
-            "time": "2026-03-01T09:35:25+00:00"
+            "time": "2026-03-03T08:58:10+00:00"
         },
         {
             "name": "thamtech/yii2-ratelimiter-advanced",
