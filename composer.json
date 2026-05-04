@@ -20,7 +20,7 @@
         "docs": "https://github.com/craftcms/demo-europa-museum"
     },
     "require": {
-        "bref/bref": "^2",
+        "bref/bref": "2.4.19",
         "craftcms/aws-s3": "^2",
         "craftcms/ckeditor": "4.11.4",
         "craftcms/cms": "5.9.20",
