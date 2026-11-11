@@ -20,15 +20,15 @@
         "docs": "https://github.com/craftcms/demo-europa-museum"
     },
     "require": {
-        "bref/bref": "2.4.21",
-        "craftcms/aws-s3": "2.3.1",
+        "bref/bref": "2.4.22",
+        "craftcms/aws-s3": "2.3.2",
         "craftcms/ckeditor": "4.11.4",
-        "craftcms/cms": "5.10.11",
+        "craftcms/cms": "5.12.1",
         "craftcms/yii2-dynamodb": "^2",
         "fakerphp/faker": "^1",
-        "nystudio107/craft-seomatic": "5.1.21",
+        "nystudio107/craft-seomatic": "5.1.22",
         "nystudio107/craft-twigpack": "^5",
-        "solspace/craft-freeform": "5.15.21",
+        "solspace/craft-freeform": "5.18.1",
         "vlucas/phpdotenv": "^5"
     },
     "minimum-stability": "dev",
