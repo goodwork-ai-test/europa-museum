@@ -1,4 +1,4 @@
-dateModified: 1781679979
+dateModified: 1794480699
 elementSources:
   craft\elements\Asset:
     -
@@ -240,7 +240,7 @@ plugins:
     edition: lite
     enabled: true
     licenseKey: VKEWWWS910PS87ALDS4HIVX8
-    schemaVersion: 5.15.1
+    schemaVersion: 5.18.0.3
     settings:
       ajaxByDefault: '1'
       alertNotificationRecipients: ''
@@ -402,5 +402,5 @@ system:
   live: true
   name: 'Europa Museum'
   retryDuration: null
-  schemaVersion: 5.10.0.0
+  schemaVersion: 5.12.0.2
   timeZone: America/Los_Angeles
